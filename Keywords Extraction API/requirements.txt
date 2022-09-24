@@ -1,0 +1,9 @@
+Flask
+gunicorn
+gensim
+matplotlib
+nltk
+numpy
+pandas
+spacy
+wordcloud
